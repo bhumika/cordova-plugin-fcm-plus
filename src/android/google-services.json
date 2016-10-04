@@ -36,6 +36,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243104259782:android:b94f4df13f3ce3e6",
+        "android_client_info": {
+          "package_name": "com.ayurworldseven.wac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243104259782-502ps1dl26rbcu7rm5e39ukn5sg6dopp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEtZ69mkZdSUNE1rLEK1PKM0FtMpEKq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

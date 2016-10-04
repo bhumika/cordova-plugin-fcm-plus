@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:243104259782:android:b94f4df13f3ce3e6",
+        "mobilesdk_app_id": "1:243104259782:android:5bc6a7d4c63c815a",
         "android_client_info": {
-          "package_name": "com.ayurworldseven.wac"
+          "package_name": "com.ayurworldseventh.wac"
         }
       },
       "oauth_client": [

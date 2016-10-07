@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<string>ca-app-pub-3940212099942544/2934731216</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<string>ca-app-pub-3940212099942544/44111228910</string>
 	<key>CLIENT_ID</key>
-	<string>243104259782-kuuqvh8cvrve2c015ufp70dko0khq0fu.apps.googleusercontent.com</string>
+	<string>123456789012-kuuqvh8cvrve2c015ufp70dko0khq0fu.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.243104259782-kuuqvh8cvrve2c015ufp70dko0khq0fu</string>
+	<string>com.googleusercontent.apps.123456789012-kuuqvh8cvrve2c015ufp70dko0khq0fu</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBHHIPYZD0TPJTOjjh0TnTpXGfBgIFuYZs</string>
+	<string>AIzaSyBHHIPYZD0TPJTOjjh0TnTpXGfBgIFuabs</string>
 	<key>GCM_SENDER_ID</key>
-	<string>243104259782</string>
+	<string>123456789012</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ayurworld.wac</string>
+	<string>com.test.app</string>
 	<key>PROJECT_ID</key>
-	<string>wacpush</string>
+	<string>push</string>
 	<key>STORAGE_BUCKET</key>
-	<string>wacpush.appspot.com</string>
+	<string>push.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:243104259782:ios:4c14830d17ecb349</string>
+	<string>1:123456789012:ios:4c14830d17abc349</string>
 	<key>DATABASE_URL</key>
-	<string>https://wacpush.firebaseio.com</string>
+	<string>https://push.firebaseio.com</string>
 </dict>
 </plist>

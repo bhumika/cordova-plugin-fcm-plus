@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "243104259782",
-    "firebase_url": "https://wacpush.firebaseio.com",
-    "project_id": "wacpush",
-    "storage_bucket": "wacpush.appspot.com"
+    "project_number": "123456789012",
+    "firebase_url": "https://push.firebaseio.com",
+    "project_id": "push",
+    "storage_bucket": "push.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:243104259782:android:5bc6a7d4c63c815a",
+        "mobilesdk_app_id": "1:123456789012:android:5bc6a7d4c63c815a",
         "android_client_info": {
-          "package_name": "com.ayurworldseventh.wac"
+          "package_name": "com.test.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "243104259782-502ps1dl26rbcu7rm5e39ukn5sg6dopp.apps.googleusercontent.com",
+          "client_id": "123456789012-502ps1dl26rbcu7rm5e39ukn5sg6dopp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
